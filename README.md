@@ -5,5 +5,8 @@ This contains all the files for my blog, I have not coded most of code. This is 
 
 Feel free to download and use or fork it and modify it!
 
+
+Note: This template/blog is not longer in use, if you would like to check out my blog then
+
 Thanks 
 ~L
